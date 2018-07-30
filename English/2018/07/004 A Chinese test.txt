@@ -40,6 +40,23 @@
     再见!
     Goodbye!
     
+    Notes                                               笔记
+    中文                                                英文
+    今天是三月七日, 星期三                              Today is Wednesday, March 7.(In English, Weekday, Month Date.
+    注:  中英文时间格式不同. 中:  年 月 日, 星期几.  英:  星期几, 月 日 年.
+    
+    这周五                                              This Friday
+    像'本','这','下'这样的限定了的时间状语就不需要介词on在前面了. 如果这周五, this Friday, 去年夏天Last summer, 下个月next month.等等  前面都没有介词.
+    若是2016年的夏天, in summer of 2016.就需要了.
+    
+    还有就是, 此外                                      Also, besides
+    
+    快下午4点了                                         It's almost 4 p.m.
+    
+    复习功课                                            review homework
+    注:  复习用review
+    
+    
     
     
     
