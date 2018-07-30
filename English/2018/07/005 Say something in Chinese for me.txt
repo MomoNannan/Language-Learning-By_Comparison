@@ -1,0 +1,66 @@
+ 
+
+  005  Say something in Chinese for me  跟我说几句汉语吧
+  
+  What the writer want to express
+    The writer's original version of Chinese
+    
+  甲：听说你的中文很厉害。
+  乙：好说。好说。
+  甲：用汉语说些什么。
+  乙：你想我说什么？
+  甲：说我讨厌特朗普。 
+  乙：我不想谈论政治。
+  甲：说耶稣基督是我的主。
+  乙：我不想谈论宗教。
+  甲：说我爱你。
+  乙：你想让我说出我不想说的话。
+  
+  My correction
+  
+  甲：听说你的中文很厉害。
+  乙：过奖了/哪里哪里/没有没有. [注: 中国人习惯谦虚(modest), 所以一般不会直接接受他人的赞赏)
+  甲：跟我说几句汉语吧。
+  乙：你想让我说什么？
+  甲：说"我讨厌特朗普"。 
+  乙：我不想谈论政治。
+  甲：说"耶稣基督是我的主"。
+  乙：我不想谈论宗教。
+  甲：说"我爱你"。
+  乙：你想让我说出我不想说的话。
+  
+  The writer's native language version
+  A: I hear your Chinese is awesome. 
+  B: You’re flattering me. 
+  A: Say something in Chinese for me. 
+  B: What do you want me to say?
+  A: Say I hate Donald Trump. 
+  B: I don’t want to talk about politics. 
+  A: Say Jesus Christ is my lord. 
+  B: I don’t want to talk about religion. 
+  A: Say I love you. 
+  B: You’re trying to make me say things I don’t want to say. 
+  
+  Comparison of the two languages  中英文对照
+  
+  甲：听说你的中文很厉害。
+  I hear your Chinese is awesome
+  乙：过奖了/哪里哪里/没有没有. 
+  You're flattering me.
+  甲：跟我说几句汉语吧。
+  Say something in Chinese for me.
+  乙：你想让我说什么？
+  What do you want me to say?
+  甲：说"我讨厌特朗普"。
+  Say "I hate Donald Trump".
+  乙：我不想谈论政治。
+  I don't want to talk about politics.
+  甲：说"耶稣基督是我的主"。
+  Say "Jesus Christ is my lord".
+  乙：我不想谈论宗教。
+  I don't want to talk about religion.
+  甲：说"我爱你"。
+  Say "I love you".
+  乙：你想让我说出我不想说的话。
+  You're trying to make me say what I don't want to say.
+  

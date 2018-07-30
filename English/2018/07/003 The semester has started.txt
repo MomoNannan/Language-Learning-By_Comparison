@@ -1,5 +1,5 @@
 
-        Entry 003    The semester has started  新学期开始了
+        003    The semester has started  新学期开始了
 		
 		What the writer want to express
 		 
