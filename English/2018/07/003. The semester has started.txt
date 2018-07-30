@@ -1,9 +1,9 @@
 
-        Entry 003    The semester has started
+        Entry 003    The semester has started  新学期开始了
 		
-		 What the writer want to express
+		What the writer want to express
 		 
-		 The writer's original version of Chinese
+		The writer's original version of Chinese
 		大家好。 好久没说过汉语了。 开学所以我要练习中文。今天我上中文课。 课四点钟开所以我可以睡懒觉。 因为我不会开车，太迟赶不上末班通勤车的时候，
 		我爸爸开车送我回家。 今天回家的时候， 希望我爸爸给我买些东西吃。 谢谢您读我的字.
 		
@@ -23,7 +23,8 @@ I can't drive so dad will drive me home when it's too late the catch the shuttle
 		
 		
 		
-		Comparison of the two languages
+		Comparison of the two languages  中英文对照
+        
 		大家好.  
 		Hello everyone.
 		

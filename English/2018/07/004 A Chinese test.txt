@@ -1,0 +1,45 @@
+
+    A Chinese test  一场中文考试
+    
+    What the writer want to express
+    The writer's original version of Chinese
+        今天是三月七号星期三。我这个星期五有一个中文考试。我希望很容易。有的语法很容易，可是有的语法我不懂。还有，我忘了几个字。
+    现在快六点半了，我得复习功课。再见！
+    
+    
+    
+    My correction
+        今天是三月七号, 星期三。我这周五有一场中文考试。我希望考的简单点儿。有的语法很容易，可是有的我却不懂。还有就是(此外)，有几个汉字我记不清了。
+    现在快六点半了，我得复习功课了。再见!
+    
+    The writer's native language version
+        Today is Wednesday, March 3. I have a Chinese test this Friday. Some grammar is really easy, but I can't understand some of it.
+    Also, I forgot some characters. It's almost 6:30, so I have to reviem homework. Goodbye!
+        
+    Comparison of the two languages  中英文对照
+    
+    今天是三月七号, 星期三。
+    Today is Wednesday, March 7.
+    
+    我这周五有一场中文考试。
+    I have a Chinese test this Friday.
+    
+    我希望考的简单点儿.
+    I hope it's easy.
+    
+    有的语法很容易，可是有的我却不懂.
+    Some grammar is easy, but I can't understand some of it. 
+    
+    
+    还有就是(此外)，有几个汉字我记不清了.
+    Also, I forgot some characters.
+    
+    现在快六点半了，我得复习功课了。
+    It's almost 6:30, I have to review homework.
+    
+    再见!
+    Goodbye!
+    
+    
+    
+    
