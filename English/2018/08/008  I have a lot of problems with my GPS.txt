@@ -1,0 +1,86 @@
+
+    007  I have a lot of problems with my GPS    我的GPS系统毛病很多
+    
+    What the writer want to express
+    The writer's original version of Chinese
+    
+    甲：昨天我用卫星定位系统开到一座不远的城市。
+    乙：我卫星定位系统的问题多了。
+    甲：真的？举一个例子。
+    乙：我家不远有一个交通环岛，每次我过那儿系统告诉我留在左边。
+    甲：是的。
+    乙：要是我留在左边，我最终到了另一座城市！
+    甲：嗯，不行。
+    乙：什么都不行！
+    甲：你想做什么？
+    乙：我打算写美国军方通知他们他们的系统有一些问题。
+    甲：好主意。
+    
+    My correction
+    
+    甲：昨天我用GPS导航开往附近的一座小镇。
+    乙：我的GPS毛病多了去了。
+    甲：是吗？比如说?
+    乙：离我家不远处有一个环岛，每次我经过那儿系统都告诉我靠左边开.
+    甲：嗯。
+    乙：但是我要是一直靠左边开，我最终会开到到另一个小镇!
+    甲：啊，这(系统)可不怎么样。
+    乙：一点儿都不好！
+    甲：那(这件事)你打算怎么办？
+    乙：我打算写信给美国军方, 通知他们一声说他们的系统有一些问题。
+    甲：好主意。
+    
+    The writer's native language version
+    
+    A: Yesterday I used GPS to drive to a nearby town.
+    B: I have a lot of problems with my GPS.
+    A: Really? Give me an example.
+    B: There is a roundabout near my home and every time I go through there the system
+    tells me to stay to the left.
+    A: Yes.
+    B: But if I stay to the left, I'll end up in another town.
+    A: Ah, it's not good.
+    B: Not at tall!
+    A: What are you going to do about this?
+    B: I'm going to write (to) the US military to inform them their system has some problems.
+    A: Good idea.
+    
+    Comparison of the two languages  中英文对照
+    
+    甲：昨天我用GPS导航开往附近的一座小镇。
+    A: Yesterday I used GPS to drive to a nearby town.
+    乙：我的GPS毛病多了去了。
+    B: I have a lot of problems with my GPS.
+    甲：是吗？比如说?
+    A: Really? Give me an example.
+    乙：离我家不远处有一个环岛，每次我经过那儿系统都告诉我靠/沿着左边开.
+    B: There is a roundabout near my home and every tiem I go through there the system tells me to stay to the left.
+    甲：嗯。
+    A: Yes.
+    乙：但是我要是一直往左边开，我最终会开到到另一个小镇!
+    B: But if I stay to the left, I'll end up in another town!
+    甲：啊，这可不好。
+    A: Ah, that's not good.
+    乙：一点儿都不好！
+    B: Not at all!
+    甲：那(这件事)你打算怎么办？
+    A: What are you going to do about this?
+    乙：我打算写信给美国军方, 通知他们一声说他们的系统有一些问题。
+    B: I'm going to write the US military to inform them their system has some problems.
+    甲: 好主意.
+    A: Good idea.
+    
+    笔记                                                                                  Notes
+    1 开往...                                                                             drive to somewhere
+    A 如开车回家, 开车上班(去公司), 开往附近的一座小镇...                                 drive/ride home, drive to work, drive to a nearby town.
+    B 开车接/送某人去某地                                                                 drive me home/ drive me to the airport.
+    
+    2 我的...有很多问题, 有很多毛病                                                       have表示对...的拥有, with表示...出的问题.
+                                                                                          I have a lot of problems with my GPS.
+                                                                                          
+    3 靠/沿着...开                                                                        stay to the left/right(靠/沿着左边开/右边开)  
+
+    4 写信给...                                                                           write to sb 或 write sb
+                                                                                          write him to inform him to stay at home tomorrow.
+    
+    
