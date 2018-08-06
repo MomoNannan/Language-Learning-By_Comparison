@@ -1,0 +1,69 @@
+
+    008  Ticket office  售票亭
+    
+    What the writer want to express
+    The writer's original version of Chinese
+    
+    先生：您好，我想出去找什么吃的东西，然后回来。
+    服务员：您要离开公园吗？
+    先生：对，找什么吃的东西，马上再进公园。
+    服务员：没问题。
+    先生：需要再买另一张票吗？
+    服务员：不需要，门票整天都好。
+    先生：太棒了！谢谢。
+    服务员：没事儿。
+    
+    My correction
+    
+    游客：您好，我想吃点儿东西，然后回来。
+    服务员：您要离开公园吗？
+    游客：对，吃点儿东西，马上就回来。
+    服务员：没问题。
+    游客：需要再买一张票吗？
+    服务员：不需要，门票整天都能用(有效)。
+    游客：太棒了！谢谢。
+    服务员：没事儿。
+    
+    The writer's native language version
+    
+    Man:          Hello, I'd like to go out of the park to find something to eat and then come back in.
+    Attendant:    Do you want to leave the park?
+    Man:          Yes. To find something to eat and come right back.
+    Attendant:    No problem.
+    Man:          Will I need to buy another ticket?
+    Attendant:    No, the ticket is good all day.
+    Man:          Great! Thank you!
+    Attendant:    No problem.
+    
+    Comparison of the two languages  中英文对照
+    
+    游客：您好，我想吃点儿东西，然后回来。
+    Man:  Hello, I'd like to go out of the park to find something to eat and then come back.
+    服务员：您要离开公园吗？
+    Attendant:  Do you want to leave the park?
+    游客：对，吃点儿东西，马上就回来。
+    Man:  Yes. To find something to eat and come right back.
+    服务员：没问题。
+    Attendant:  No problem.
+    游客：需要再买一张票吗？
+    Man:  Will I need to buy another ticket?
+    服务员：不需要，门票整天都能用(有效)。
+    Attendant:  No, the ticket is good all day.
+    游客：太棒了！谢谢。
+    Man: Great! Thank you!
+    服务员：没事儿。
+    Attendant:  No problem.
+    
+    笔记                                                                                              Notes
+        
+    1  I'd like to 听起来比 I want 更礼貌些                                                           I'd(I would) like to & I want                                                                  
+    I'd like to 更理智些, 而I want 更主观些                                                           "I would like to" sounds more polite and it's more like an intention while                        
+    请求陌生人或不熟悉的人要说I'd like to 而不是 I want                                               "I want" is more like a desire.                                                                   
+    
+    2  出去吃点东西                                                                                   go out (of somewhere) to find something to eat.
+    
+    3  马上回来                                                                                       come right back
+    
+    4  good还有有效的意思. 票整天都有效                                                               The ticket is good all day.
+    
+    
