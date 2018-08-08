@@ -1,0 +1,91 @@
+
+    010  Do you use Google Translate to write articles    你用谷歌翻译写文章么?
+    
+    What the writer want to express
+    The writer's original version of Chinese
+    
+    甲：你在语言门上写文章吗？
+    乙：当然，我想天天写一篇文章，可是我常常没有空儿。
+    甲：你用谷歌翻译写文章吗？
+    乙：不好意思，我一个人不能自己写中文文章，太难了。
+    甲：这样就不是你的文章。
+    乙：不好意思，你说得对。
+    甲：由于网上的翻译，老师不知道谁写文章吧。
+    乙：对，幸运的。
+    甲：了解学生写作， 只有一个办法，让他们在课堂里无手机写作。
+    乙：不幸的，你又说的对。
+    
+    My correction
+    
+    甲：你在lang-8上写文章吗？
+    乙：当然，我想每天写一篇文章，可是我常常没有空儿。
+    甲：你用谷歌翻译写文章吗？
+    乙：说起来挺不好意思, 我自己写不了中文文章，那太难了。
+    甲：这样就算不上是你的文章了。
+    乙：你说得对。我感觉好尴尬.
+    甲：由于经过了网上的翻译，老师不知道你的真实水平了.
+    乙：对。
+    甲：要了解学生写作， 只有一个办法，那就是让他们在课堂上写作时不借助手机。
+    乙：你说的对。
+    
+    The writer's native language version
+    
+    A: Do you write articles on Lang-8?
+    B: Of course. I want to write articles every day, but I often don’t have time. 
+    A: Do you use Google Translate to write articles? 
+    B: I’m so embarrassed. I can’t write my articles alone. It’s too difficult. 
+    A: But then it is not your article. 
+    B: You’re right. I’m so embarrassed.
+    A: Due to online translators teachers don’t know who wrote the article. 
+    B: Yes, fortunately. 
+    A: The only way to know how students write is to have them write in class without their cell phones. 
+    B: Unfortunately, you’re right again. 
+    
+    Comparison of the two languages  中英文对照.
+    
+    甲：你在lang-8上写文章吗？
+    A:  Do you write articles on lang-8?
+    乙：当然，我想每天写一篇文章，可是我常常没有空儿。
+    B:  Of course, I want to write articles every day, but I often don't have time.
+    甲：你用谷歌翻译写文章吗？
+    A:  Do you use Google Translate to write articles?
+    乙：说起来挺不好意思, 我自己写不了中文文章，那太难了。
+    It's embarrassed. I can't write my Chinese articles alone. It's too difficult.
+    甲：这样就算不上是你的文章了。
+    But then it's not your article.
+    乙：你说得对。我感觉好尴尬.
+    You're right. I'm so embarrassed.
+    甲：由于经过了网上的翻译，老师不知道你的真实水平了.
+    Due to the online translators, teachers don't know who wrote the article.
+    乙：对。
+    Yes, fortunately.
+    甲：了解学生写作， 只有一个办法，那就是让他们在课堂上写作时不借助手机。
+    The only way to know how students write is to have them write in class without their cell phones.
+    乙：你说的对。
+    You're right, unfortunately.
+    
+    笔记                                                                                              Notes
+    
+    1  在...网站上 用介词on                                                                           on some website.
+    在...网站上写文章                                                                                 Do you write articles on lang-8?
+    
+    2  常常没有空. 没有空用don't have time                                                            I don't have free time.
+    
+    3  自己做不了...                                                                                  can't do something alone
+    自己写不了中文文章                                                                                I can't write my Chinese articles alone.
+    
+    4  只有一个办法...                                                                                The only way to ... is ...
+    了解学生写作水平(文章写得怎么样)只有一个办法,                                                     The only way to know how students write is
+    那就是让他们在课堂上写作时不借助手机。                                                            to have them write in class without their cell phones.
+
+    5  在课堂上                                                                                       in class
+    
+    6  让学生在课堂上写作                                                                             除了用let还可以用have
+                                                                                                      have sb to do something = tell / arrange sb to do something 
+                                                                                                      = let sb do something
+                                                                                                      
+                                                                                                      have students write in class
+    
+    
+    
+  
